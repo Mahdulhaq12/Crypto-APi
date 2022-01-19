@@ -1,0 +1,13 @@
+body {
+  margin: 30px
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.UUID{
+  display: none;
+}
